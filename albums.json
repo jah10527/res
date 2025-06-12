@@ -1,0 +1,12 @@
+[
+    {
+        "name":"We",
+        "image":"",
+        "path":"photos/we.json"
+    },
+    {
+        "name":"壁纸",
+        "image":"",
+        "path":"photos/wallPaper.json"
+    }
+]
