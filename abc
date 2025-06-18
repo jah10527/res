@@ -1,0 +1,28 @@
+[
+  {
+    "title": "关于镜头标称焦距和相机标定的焦距的差异",
+    "time": "2022-05-04",
+    "file": "posts/about_focol_length.md",
+    "description": "",
+    "image": "",
+	"tag":["CV","calibration"]
+  },
+  
+  {
+    "title": "teach modification visually",
+    "time": "2023-03-26",
+    "file": "posts/teachmodificationvisually.md",
+    "description": "",
+    "image":"",
+    "tag":["CV","ROBOT"]
+  },
+  
+  {
+    "title": "test",
+    "time": "2023-03-26",
+    "file": "posts/test.md",
+    "description": "",
+    "image":"",
+    "tag":["CV","ROBOT"]
+  }
+]
