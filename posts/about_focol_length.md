@@ -10,7 +10,7 @@
 
 在马颂德、张正友著的《计算机视觉》一书第四章中就有如下思考题，这也是本人上学时做的作业题，快十年了依然记得。
 
-![](https://jah10527.github.io/res/posts/fig/926848750.jpg)
+![](https://cdn.cdnjson.com/pic.html?url=tvax3.sinaimg.cn/mw690/7479c6e7ly1i2ll3tfc2gj20i00ilq4b.jpg)
 
 这个问题到此，想必应该已经比较明晰了，实际我们标定出来的是像距。
 
